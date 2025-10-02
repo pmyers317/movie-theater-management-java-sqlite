@@ -1,2 +1,4 @@
-# movie-theater-management-java-sqlite
-Multi-screen Java GUI with JDBC + SQLite for movie scheduling and inventory; full CRUD and screen navigation.
+# Movie Theater Management System (Java + SQLite)
+
+Multi-screen Java desktop app with JDBC + SQLite for movie scheduling and inventory.
+**Tech:** Java, JDBC, SQLite, OOP
